@@ -1,4 +1,3 @@
-# HDL_EXP3
 # 4BIT_SYNCHRONOUS_UP_COUNTER
 # AIM:
 To stimulate and synthesis 4bit synchronous upcounter using Vivado.
